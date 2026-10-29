@@ -4,8 +4,9 @@
 
 # Ramzy Jamal Ismail
 
-**Building and testing ai-native tools and workflows that support founders, operators, and investors in impacting their communities around them.**
-Ex-Techstars Investment Principal · Founding Director, Flat6Labs Abu Dhabi · Co-Founder, Stoic Scratch Labs
+Stoic Scratch Labs
+**Building and testing ai-native tools and workflows that support founders, operators, and investors in impacting the communities around them.**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramzyis-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramzyis/)
 [![Writing](https://img.shields.io/badge/Writing-Medium-000000?logo=medium&logoColor=white)](https://medium.com/@ramzyis/data-on-venture-capital-in-the-middle-east-d9004230ebc4)
