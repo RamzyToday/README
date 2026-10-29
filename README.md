@@ -4,7 +4,7 @@
 
 # Ramzy Ismail
 
-**I build AI-native go-to-market systems for founders and small teams.**
+**Building and testing ai-native tools and workflows that support founders, operators, and investors in impacting their customers, communities, and colleagues.**
 Ex-Techstars Investment Principal · Founding Director, Flat6Labs Abu Dhabi · Co-Founder, Stoic Scratch Labs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramzyis-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramzyis/)
