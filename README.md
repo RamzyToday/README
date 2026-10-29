@@ -25,7 +25,7 @@ Now I build the tools I wished I had in both jobs. At **Stoic Scratch Labs**, I 
 
 This profile is where that work lives in public. Everything here is built to be forked, adapted, and improved.
 
-> **Delta Hug:** my operating principle. Close the gap between where a founder is and where they need to be, whether that is fundraising, partnerships, go-to-market, or just getting unstuck.
+> ** my operating principle. Close the gap between where a founder is and where they need to be, whether that is fundraising, partnerships, go-to-market, or just getting unstuck.
 
 ---
 
