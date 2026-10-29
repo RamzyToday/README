@@ -19,7 +19,7 @@ Ex-Techstars Investment Principal · Founding Director, Flat6Labs Abu Dhabi · C
 
 ## About
 
-I spent ten years on both sides of the startup table. As an investor, I backed 50 early-stage companies across Techstars and Flat6Labs. As an operator, I was a senior GTM hire at two venture-backed startups and built the channels that drove growth.
+I spent ten years on both sides of the startup table. As an investor, I backed 50 early-stage companies across Techstars and Flat6Labs. As an operator, I was a senior GTM hire at two venture-backed startups and built the channels that drove growth. And as a founder, I co-founded Venuable (RVA Lighthouse Labs Accelerator Cohort 1), BetaPetas, and StartupUAE.com. 
 
 Now I build the tools I wish I'd had in both roles. At **Stoic Scratch Labs**, I help SMB owners and startup founders put AI to work across sales, marketing, and partnerships: agent workflows, enrichment pipelines, research systems, and the operating playbooks around them. Trying to atleast. insert shrug.
 
