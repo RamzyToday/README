@@ -76,10 +76,6 @@ flowchart LR
 
 ### Coming to this profile
 
-- [ ] Open-source the four Claude Skills as installable repos with examples
-- [ ] `gtm-playbooks`: templated partner-program and startup-program playbooks from building Clara Accelerate (20+ partners, 37% of revenue)
-- [ ] `vc-memo-archive`: a structured, searchable archive of 44 real venture memos for founders and new investors
-- [ ] Evals for every agent workflow, with trace logs and error analysis published alongside the code
 
 ---
 
