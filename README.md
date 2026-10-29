@@ -141,6 +141,10 @@ I love researching industries, products, and communities. I am naturally extra c
 
 - Authored and published an independent 2016 analysis of GCC venture capital, combining MENA PE association and Wamda data with primary interviews with investors and founders, while leading Flat6Labs Abu Dhabi. Before the privilege of Magnitt data, PitchBook, Deal, and the many reports we get now.
 - (https://medium.com/@ramzyis/data-on-venture-capital-in-the-middle-east-d9004230ebc4)
+
+
+- ( https://bit.ly/Menascapes)
+- 
   
   
 **Founders:** Let me know how I can help you with GTM, market expansion into the US or the GCC, fundraising, and building community-led sales motions.
