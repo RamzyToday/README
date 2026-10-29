@@ -135,16 +135,15 @@ I firmly believe in the power of communities and the people who believe. Across 
 
 ---
 
-## Research
+- ## Research
 
-I love researching industries, products, and communities. I am naturally extra curious and like to unpack things to understand why things work. It's active learning, and connecting nodes helps me broaden my view of the impact we can have. I appreciate the venture capital industry and the ability to spot opportunity and talent in interesting spaces.
+I was the kid who took things apart just to see how they worked. Later that turned into breaking down the X's and O's of American football, first as a player and then as a coach. After a short run in equity research, I landed in venture capital, and that's where my curiosity finally had room to roam. 
 
-- Authored and published an independent 2016 analysis of GCC venture capital, combining MENA PE association and Wamda data with primary interviews with investors and founders, while leading Flat6Labs Abu Dhabi. Before the privilege of Magnitt data, PitchBook, Deal, and the many reports we get now.
-- (https://medium.com/@ramzyis/data-on-venture-capital-in-the-middle-east-d9004230ebc4)
+Sometimes the data I want doesn't exist yet, so I built it.
 
-
-- ( https://bit.ly/Menascapes)
-- 
+- - **Menascapes (2015-16):** Co-founded a volunteer-led, community-sourced initiative mapping the MENA startup ecosystem with Sharif El-Badawi (then Google's partner lead for VCs and startups). Our figures, including 100+ active funds, 75+ accelerators, and $1B+ in available venture capital, were cited in [Forbes](https://www.forbes.com/sites/elizabethmacbride/2016/01/18/seeking-untapped-market-nearly-100-investment-funds-emerge-in-middle-east-tech-scene/).
+  
+- **[Data on Venture Capital in the Middle East](https://medium.com/@ramzyis/data-on-venture-capital-in-the-middle-east-d9004230ebc4) (2016):** My own deep dive into MENA venture capital with a focus on the UAE, done while growing my role at Flat6Labs Abu Dhabi. I pulled together MENA PE association data, Wamda research, and conversations with investors and founders, back before MAGNiTT, PitchBook, and Dealroom made regional data was available. Final data was presented to ADIC in UAE.
   
   
 **Founders:** Let me know how I can help you with GTM, market expansion into the US or the GCC, fundraising, and building community-led sales motions.
