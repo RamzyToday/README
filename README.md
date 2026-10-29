@@ -138,12 +138,15 @@ I firmly believe in the power of communities and the people who believe. Across 
 
 I love researching industries, products, and communities. I am naturally extra curious and like to unpack things to understand why things work. It's active learning, and connecting nodes helps me broaden my view of the impact we can have. I appreciate the venture capital industry and the ability to spot opportunity and talent in interesting spaces.
 
-
+- Authored and published an independent 2016 analysis of GCC venture capital, combining MENA PE association and Wamda data with primary interviews with investors and founders, while leading Flat6Labs Abu Dhabi. Before the privilege of Magnitt data, PitchBook, Deal, and the many reports we get now.
+- (https://medium.com/@ramzyis/data-on-venture-capital-in-the-middle-east-d9004230ebc4)
+  
+  
 **Founders:** Let me know how I can help you with GTM, market expansion into the US or the GCC, fundraising, and building community-led sales motions.
 
 
 ---
 
 <div align="center">
-<sub>Berlin-based builder, tester, and tech fiddler.</sub>
+<sub>Always building, testing, and fiddling with things.</sub>
 </div>
