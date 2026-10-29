@@ -9,6 +9,7 @@ Ex-Techstars Investment Principal · Founding Director, Flat6Labs Abu Dhabi · C
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramzyis-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramzyis/)
 [![Writing](https://img.shields.io/badge/Writing-Medium-000000?logo=medium&logoColor=white)](https://bit.ly/Medium_RI)
+[![Tweet X](https://img.shields.io/badge/Tweet-X-000000?logo=medium&logoColor=white)]([https://bit.ly/Medium_RI](https://x.com/Ramzyis))
 [![Email](https://img.shields.io/badge/Email-Ramzytoday%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:Ramzytoday@gmail.com)
 ![Based in](https://img.shields.io/badge/U.S.%20%7C%20GCC%20%7C%20Berlin-555555)
 
