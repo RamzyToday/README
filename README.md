@@ -19,17 +19,19 @@ Ex-Techstars Investment Principal · Founding Director, Flat6Labs Abu Dhabi · C
 
 ## About
 
-I spent ten years on both sides of the startup table. As an investor, I backed 50 early-stage companies across Techstars and Flat6Labs. As an operator, I was the first commercial hire at two venture-backed startups and built the partner channels that drove their growth.
+I spent ten years on both sides of the startup table. As an investor, I backed 50 early-stage companies across Techstars and Flat6Labs. As an operator, I was a senior GTM hire at two venture-backed startups and built the channels that drove growth.
 
-Now I build the tools I wished I had in both jobs. At **Stoic Scratch Labs**, I help SMB owners and startup founders put AI to work across sales, marketing, and partnerships: agent workflows, enrichment pipelines, research systems, and the operating playbooks around them.
+Now I build the tools I wish I'd had in both roles. At **Stoic Scratch Labs**, I help SMB owners and startup founders put AI to work across sales, marketing, and partnerships: agent workflows, enrichment pipelines, research systems, and the operating playbooks around them. Trying to atleast. insert shrug.
 
-This profile is where that work lives in public. Everything here is built to be forked, adapted, and improved.
+This profile is where that work lives in public. 
 
-> ** my operating principle. Close the gap between where a founder is and where they need to be, whether that is fundraising, partnerships, go-to-market, or just getting unstuck.
+> ** On operating principles and values:
+    >
+    >
 
 ---
 
-## What I'm building
+## What I'm building, I think:
 
 ### RAM_OS: a personal AI operating system
 
@@ -114,24 +116,31 @@ timeline
     2026 : Stoic Scratch Labs : Co-Founder : AI-native GTM studio
 ```
 
-- **Techstars (2016 to 2022):** Led 32 investments and became Techstars' first Investment Principal. Ran portfolio services for 90+ startups and scaled EMEA portfolio services from 3 to 15 programs, with programs in New York, Baltimore, and Dubai.
-- **Flat6Labs Abu Dhabi (2015 to 2016):** Co-built the city's first $10M seed fund and equity accelerator with twofour54. Backed Washmen (>50x ROIC) and Unnyhog, Abu Dhabi's first Y Combinator company.
-- **Clara Technologies (2024 to 2026):** Built Clara Accelerate, a program with 20+ accelerators, VCs, and venture studios that grew from 21% to 37% of revenue and lifted partner-sourced pipeline 184%. Clara was acquired in Q1 2026.
-- **EQL Finance (2022 to 2024):** First commercial hire. Closed partnerships with Equifax and Baltimore Gas and Electric to expand embedded financial access to underserved communities.
+- **Techstars (2016 to 2022):** Led 32 investments and launched three accelerator investment programs in New York, Baltimore, and the UAE. Served as Techstars' first Investment Principal; previously ran portfolio services for 90+ startups and scaled EMEA portfolio services across 15 accelerator programs and cities. 
+- **Flat6Labs Abu Dhabi (2015 to 2016):** Co-built the city's first $10M seed fund and equity accelerator with twofour54. Backed Washmen, the world's #1 laundry, and Unnyhog, Abu Dhabi's first Y Combinator company.
+- **Clara Technologies (2024 to 2026):** Built Clara Accelerate, a program with 20+ accelerators, VCs, and venture studios that grew from 21% to 37% of revenue and lifted partner-sourced pipeline and client onboarding. Clara was acquired in Q1 2026.
+- **EQL Finance (2022 to 2024):** First commercial hire. Closed partnerships with Equifax and Baltimore Gas and Electric to expand embedded financial access for AI underwriting and lending in underserved communities.
 
 ---
 
 ## Community
 
-I've built founder communities on three continents and want this profile to be another one.
+I firmly believe in the power of communities and the people who believe. Across various mediums of engagement and cities, I've built spaces where founders and investors connect:
 
-- **StartupUAE Slack:** founder and investor community for the UAE and MENA
-- **Berlin 2nd Tuesdays:** recurring founder, operator, and investor meetup
+- **StartupUAE Slack:** founder and investor community for the UAE and MENA. First on Product Hunt for 13:45 hours before they banned Slack community submissions.
+- **Berlin 2nd Tuesdays:** recurring founder, operator, and investor meetup that spearheaded the Berlin ecosystem for a few years when Techstars had four programs in Berlin.
 - **Equitech Happy Hour:** weekly gathering for Baltimore's tech community
 - **TechFugees Dubai:** technology for displaced people and refugees
 
-**Founders:** if one of these tools could help you, open an issue or email me. I'll help you adapt it.
-**Builders:** PRs, forks, and "this broke for me" reports are all welcome.
+---
+
+## Research
+
+I love researching industries, products, and communities. I am naturally extra curious and like to unpack things to understand why things work. It's active learning, and connecting nodes helps me broaden my view of the impact we can have. I appreciate the venture capital industry and the ability to spot opportunity and talent in interesting spaces.
+
+
+**Founders:** Let me know how I can help you with GTM, market expansion into the US or the GCC, fundraising, and building community-led sales motions.
+
 
 ---
 
